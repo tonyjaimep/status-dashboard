@@ -11,4 +11,5 @@ Utilizando React, se hacen solicitudes cada segundo para determinar el estatus d
 
 El endpoint `health` responde con el estatus del servicio, incluyendo el uso de CPU y memoria.
 
-![](./assets/grabacion.mp4)
+https://github.com/user-attachments/assets/f89d093f-a3c0-4868-8ae7-c36db3d6befb
+
