@@ -1,0 +1,2 @@
+REPLICAS = 3;
+WEB_PORT = 8080;

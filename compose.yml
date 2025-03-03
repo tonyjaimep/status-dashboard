@@ -1,0 +1,9 @@
+services:
+  web:
+    build: ./actix-app
+    ports:
+      - "8080-8082:8080"
+    networks:
+      - app-net
+networks:
+  app-net:
