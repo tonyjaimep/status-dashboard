@@ -9,5 +9,6 @@ escuchan solicitudes en los puertos 8080, 8081 y 8082.
 
 Utilizando React, se hacen solicitudes cada segundo para determinar el estatus de cada uno de los servicios web.
 
-El endpoint `health` responde con el estatus del servicio
+El endpoint `health` responde con el estatus del servicio, incluyendo el uso de CPU y memoria.
 
+![](./assets/grabacion.mp4)
